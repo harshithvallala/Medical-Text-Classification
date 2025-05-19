@@ -29,9 +29,3 @@ An **AI-powered medical text classification system** built using **Python** and 
 - Python 3.8 or higher  
 - pip (Python package manager)  
 - Virtual environment (recommended)
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/smart-med-consumer-health-insights.git
-cd smart-med-consumer-health-insights
