@@ -1,4 +1,4 @@
-# 🩺 Smart Med Consumer Health Insights
+# Smart Med Consumer Health Insights
 
 An **AI-powered medical text classification system** built using **Python** and **Django**, Smart Med Consumer Health Insights analyzes social media content to extract **health-related insights**. It combines traditional and advanced NLP techniques — **TF-IDF**, **Word2Vec**, and **BERT** — to classify consumer-generated health information. The system enhances accuracy with a **custom consumer health vocabulary**, and presents results through a clean, interactive web dashboard.
 
